@@ -4,7 +4,7 @@
    - go run main.go first second
    - to prepared dependancies:
      - go mod init Cobra
-     - go mod tiny
+     - go mod tidy
 
 # Go Sample Projects
 **2. Aqi**
