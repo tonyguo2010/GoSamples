@@ -3,14 +3,14 @@
    - go run main.go first first
    - go run main.go first second
    - to prepared dependancies:
-     - go mod init
+     - go mod init Cobra
      - go mod tiny
 
 # Go Sample Projects
 **2. Aqi**
    - ![img](./02.aqi/aqi.png)
    - to prepared dependancies:
-     - go mod init
+     - go mod init Aqi
      - go get -u github.com/wonli/aqi
    - go run main.go
    - to test this sample, use use [wscat](https://github.com/websockets/wscat)
