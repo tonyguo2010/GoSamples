@@ -6,7 +6,6 @@
      - go mod init Cobra
      - go mod tidy
 
-# Go Sample Projects
 **2. Aqi**
    - ![img](./02.aqi/aqi.png)
    - to prepared dependancies:
@@ -16,3 +15,6 @@
    - to test this sample, use use [wscat](https://github.com/websockets/wscat)
       - wscat -c ws://localhost:2015/ws
         - {"action":"hi"}
+          
+**3. JSON**
+   - go run .
